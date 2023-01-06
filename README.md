@@ -18,7 +18,7 @@ Best Tool For Increase Instagram Follower.
 
 `$ pkg install git`
 
-`$ git clone https://github.com/termuxprofessor/insfollow`
+`$ git clone https://github.com/BMind0945/Tiktok`
 
 `$ cd insfollow`
 
@@ -28,9 +28,7 @@ Best Tool For Increase Instagram Follower.
 
 `$ bash insfollow.sh`
 
-## • Watch Video Tutorial From Below
-* https://youtu.be/SAkFZJRaq0U
----
+
 
 <p align="center">
   Follow Me On
